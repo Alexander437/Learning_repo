@@ -1,8 +1,10 @@
 # Project Title
 
-One Paragraph of project description goes here
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
+</div>
 
-$$sqrt{z/x}$$
+One Paragraph of project description goes here
 
 This initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2), but as
