@@ -1,7 +1,7 @@
 # Project Title
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/1381301/66535560-d3422200-eace-11e9-9123-5535d469db19.png"/>
+  <img src="https://disk.yandex.ru/i/lSdWXN93HcPMsQ"/>
 </div>
 
 One Paragraph of project description goes here
