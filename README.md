@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/99363850.svg)](https://zenodo.org/badge/latestdoi/99363850)
+[![D](https://zenodo.org/badge/99363850.svg)](https://zenodo.org/badge/latestdoi/99363850)
 
 # Project Title
 
