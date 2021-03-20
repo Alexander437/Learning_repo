@@ -3,7 +3,7 @@
 # Project Title
 
 <div align="center">
-  <img src="https://disk.yandex.ru/i/lSdWXN93HcPMsQ"/>
+  <img src="https://new-retail.ru/upload/medialibrary/a20/a20d6da241d51d65841dda122bc79754.jpg"/>
 </div>
 
 One Paragraph of project description goes here
